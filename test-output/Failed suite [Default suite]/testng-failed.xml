@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="none" name="Failed suite [Failed suite [Default suite]]">
+  <test parallel="none" name="Default test(failed)(failed)">
+    <classes>
+      <class name="addToCart.DataDrivenTesting">
+        <methods>
+          <include name="initiateBrowser"/>
+          <include name="validateUsers" invocation-numbers="0 1 2 3 4 5 6"/>
+        </methods>
+      </class> <!-- addToCart.DataDrivenTesting -->
+    </classes>
+  </test> <!-- Default test(failed)(failed) -->
+</suite> <!-- Failed suite [Failed suite [Default suite]] -->

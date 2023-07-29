@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-29T05:47:57Z" name="Default suite" finished-at="2023-07-29T05:48:01Z" duration-ms="4032">
+    <groups>
+    </groups>
+    <test started-at="2023-07-29T05:47:57Z" name="Default test" finished-at="2023-07-29T05:48:01Z" duration-ms="4032">
+      <class name="tests.RegistrationTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.RegistrationTest@2af004b]" started-at="2023-07-29T11:17:57Z" name="setup" finished-at="2023-07-29T11:18:00Z" duration-ms="2925" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="homePageNavigation()[pri:0, instance:tests.RegistrationTest@2af004b]" started-at="2023-07-29T11:18:00Z" name="homePageNavigation" finished-at="2023-07-29T11:18:01Z" duration-ms="1058" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePageNavigation -->
+        <test-method signature="pageNavigatino()[pri:0, instance:tests.RegistrationTest@2af004b]" started-at="2023-07-29T11:18:01Z" name="pageNavigatino" finished-at="2023-07-29T11:18:01Z" duration-ms="23" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageNavigatino -->
+      </class> <!-- tests.RegistrationTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
